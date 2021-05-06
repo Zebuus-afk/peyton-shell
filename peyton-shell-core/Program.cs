@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -7,17 +7,18 @@ class Program
         /* ----- VARIABLES ----- */
         bool a = true;
         string command;
+        string title = "SHELL TITLE";
+        string version = "v.b.0.1";
 
 
         /* ----- PRESENTATION ----- */
-        Console.WriteLine("PEYTON SHELL - v.b.0.1");
+        Console.WriteLine(title + "-" + version);
         Console.WriteLine("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
-        Console.WriteLine("This program is a simple shell like PowerShell.");
-        Console.WriteLine("So, if you use this shell, you don't will become a hacker (lol).");
-        Console.WriteLine("Press a key for get access to program.");
+        //Console.WriteLine("Comments.");
+        //Console.WriteLine("Comments.");
+        //Console.WriteLine("Comments.");
         Console.ReadKey();
         /* ----- MAKE A PAUSE ----- */
-        Console.WriteLine("Oups, this program is in development...");
         while (a == true)
         {
             Console.Write(">>>");
