@@ -2,7 +2,10 @@
 Peyton Shell is a simple shell. Like PowerShell, for example.
 
 # Introduction
-Pour le moment, le README est uniquement en français. Il le sera, par la suite, en anglais, pour une meilleure universalisation du code.
+Pour le moment, le README est uniquement en français. Il le sera, par la suite, en anglais, pour une meilleure universalisation du programme.
+
+# Entrer dans l'équipe
+Si vous souhaitez entrer dans l'équipe de développement, contactez Peyton098#4251 via discord.
 
 # Liste des erreurs
 
@@ -29,4 +32,3 @@ Cette erreur survient lorsque le nom de l'utilisateur entré est inexistant ou m
 
 ## 4003
 Cette erreur survient lorsque le fichier de la configuration du l'utilisateur a été modifié, supprimé ou déplacé. L'erreur survient aussi lorsque le fichier est illisible par le système.
-
