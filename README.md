@@ -16,7 +16,17 @@ Cette erreur survient lorsque qu'il y a une erreur a l'intérieur du shell. Il f
 Cette erreur survient lorsque vous avez entré un mauvais mot de passe lors d'une connection dans un groupe.
 
 ## 3002
-Cette erreur survient lorsque le nom de groupe entré n'existe pas.
+Cette erreur survient lorsque le nom de groupe entré est inexistant ou mal écrit.
 
 ## 3003
-Cette erreur survient lorsque le fichier de la configuration du groupe est mal codé, a été modifié, supprimé ou déplacé. L'erreur survient aussi lorsque le fichier est illisible.
+Cette erreur survient lorsque le fichier de la configuration du groupe a été modifié, supprimé ou déplacé. L'erreur survient aussi lorsque le fichier est illisible par le système.
+
+## 4001
+Cette erreur survient lorsque vous avez entré un mauvais mot de passe lors d'une connection à un utilisateur.
+
+## 4002
+Cette erreur survient lorsque le nom de l'utilisateur entré est inexistant ou mal écrit.
+
+## 4003
+Cette erreur survient lorsque le fichier de la configuration du l'utilisateur a été modifié, supprimé ou déplacé. L'erreur survient aussi lorsque le fichier est illisible par le système.
+
