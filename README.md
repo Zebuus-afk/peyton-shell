@@ -7,5 +7,7 @@ Pour le moment, le README est uniquement en français. Il le sera, par la suite,
 # Liste des erreurs
 
 ## 1001
+Cette erreur survient lorsque la commande entrée est inexistante ou mal écrite.
 
-La commande est inexistante ou mal écrite.
+## 2001
+Cette erreur survient lorque qu'il y a une erreur a l'intérieur du shell. Il faut donc me contacter au plus vite afin que je règle celle-ci.
