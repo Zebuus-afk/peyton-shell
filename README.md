@@ -1,6 +1,12 @@
 # peyton-shell
 Peyton Shell est une simple invite de commande tel que PowerShell, par exemple.
 
+# Sommaire
+- Introduction : https://github.com/Zebuus-afk/peyton-shell/blob/main/README.md#introduction
+- Installation : https://github.com/Zebuus-afk/peyton-shell/blob/main/README.md#installation
+- Entrer dans l'équipe : https://github.com/Zebuus-afk/peyton-shell/blob/main/README.md#entrer-dans-l%C3%A9quipe
+- Liste des erreurs : https://github.com/Zebuus-afk/peyton-shell/blob/main/README.md#liste-des-erreurs
+
 # Introduction
 Pour le moment, le README est uniquement en français. Il le sera, par la suite, en anglais, pour une meilleure universalisation du programme.
 La version beta 0.1 du projet est en C#. Pour des raisons de facilité, le projet est programmé, désormais, en python.
