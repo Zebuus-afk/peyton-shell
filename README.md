@@ -1,8 +1,9 @@
 # peyton-shell
-Peyton Shell is a simple shell. Like PowerShell, for example.
+Peyton Shell est une simple invite de commande tel que PowerShell, par exemple.
 
 # Introduction
 Pour le moment, le README est uniquement en français. Il le sera, par la suite, en anglais, pour une meilleure universalisation du programme.
+La version beta 0.1 du projet est en C#. Pour des raisons de facilité, le projet est programmé, désormais, en python.
 
 # Entrer dans l'équipe
 Si vous souhaitez entrer dans l'équipe de développement, contactez Peyton098#4251 via discord.
