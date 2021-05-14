@@ -33,3 +33,6 @@ Cette erreur survient lorsque le nom de l'utilisateur entré est inexistant ou m
 
 ## 4003
 Cette erreur survient lorsque le fichier de la configuration du l'utilisateur a été modifié, supprimé ou déplacé. L'erreur survient aussi lorsque le fichier est illisible par le système.
+
+## 5001
+Cette erreur survient lorque qu'un ou plusieurs paramètres d'une commande n'en pas été bien renseigné. Le plus souvent, suite à cette erreur, un moule de commande est affiché.
