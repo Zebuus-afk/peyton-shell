@@ -7,11 +7,11 @@ La version beta 0.1 du projet est en C#. Pour des raisons de facilité, le proje
 
 # Installation
 
-#Téléchargez la nouvelle version
+## Téléchargez la nouvelle version
 Tout d'abord, pour une meilleure utilisation de PeytonShell, il faut que vous installiez le dernière version qui est la **v.b.0.2** pour la moment. Il vous suffit de télécharger le fichier **.zip** que vous trouverez au lien ci-dessous :
 https://github.com/Zebuus-afk/peyton-shell/blob/main/Downloads/v.b.0.2/v.b.0.2.zip
 
-#Installez PeytonShell
+## Installez PeytonShell
 Suite à cela, il vous suffit d'attendre que votre téléchargement soit fini. Après que ce dernier le soit, vous avez juste à faire un clic-droit sur le fichier puis cliquer sur **Extraire tout...**. Néammois, vous pouvez directement l'ouvrir, mais le programme ne fonctionnera pas ou peu et vous rencontrerez certaines erreurs.
 
 # Entrer dans l'équipe
